@@ -2,7 +2,7 @@ video = "";
 
 function preload() {
     video = createVideo('video.mp4');
-    vide.hide();
+    video.hide();
 }
 
 function setup() {
